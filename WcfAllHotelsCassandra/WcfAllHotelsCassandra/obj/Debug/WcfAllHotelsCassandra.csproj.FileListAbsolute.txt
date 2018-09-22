@@ -1,0 +1,17 @@
+C:\Users\pvashisht\source\repos\WcfAllHotelsCassandra\WcfAllHotelsCassandra\bin\WcfAllHotelsCassandra.dll.config
+C:\Users\pvashisht\source\repos\WcfAllHotelsCassandra\WcfAllHotelsCassandra\bin\WcfAllHotelsCassandra.dll
+C:\Users\pvashisht\source\repos\WcfAllHotelsCassandra\WcfAllHotelsCassandra\bin\WcfAllHotelsCassandra.pdb
+C:\Users\pvashisht\source\repos\WcfAllHotelsCassandra\WcfAllHotelsCassandra\obj\Debug\WcfAllHotelsCassandra.csprojAssemblyReference.cache
+C:\Users\pvashisht\source\repos\WcfAllHotelsCassandra\WcfAllHotelsCassandra\obj\Debug\WcfAllHotelsCassandra.csproj.CoreCompileInputs.cache
+C:\Users\pvashisht\source\repos\WcfAllHotelsCassandra\WcfAllHotelsCassandra\obj\Debug\WcfAllHotelsCassandra.dll
+C:\Users\pvashisht\source\repos\WcfAllHotelsCassandra\WcfAllHotelsCassandra\obj\Debug\WcfAllHotelsCassandra.pdb
+C:\Users\pvashisht\source\repos\WcfAllHotelsCassandra\WcfAllHotelsCassandra\bin\Cassandra.dll
+C:\Users\pvashisht\source\repos\WcfAllHotelsCassandra\WcfAllHotelsCassandra\bin\LZ4.dll
+C:\Users\pvashisht\source\repos\WcfAllHotelsCassandra\WcfAllHotelsCassandra\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pvashisht\source\repos\WcfAllHotelsCassandra\WcfAllHotelsCassandra\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pvashisht\source\repos\WcfAllHotelsCassandra\WcfAllHotelsCassandra\bin\Microsoft.Extensions.Logging.dll
+C:\Users\pvashisht\source\repos\WcfAllHotelsCassandra\WcfAllHotelsCassandra\bin\Cassandra.xml
+C:\Users\pvashisht\source\repos\WcfAllHotelsCassandra\WcfAllHotelsCassandra\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\pvashisht\source\repos\WcfAllHotelsCassandra\WcfAllHotelsCassandra\bin\Microsoft.Extensions.Logging.xml
+C:\Users\pvashisht\source\repos\WcfAllHotelsCassandra\WcfAllHotelsCassandra\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\pvashisht\source\repos\WcfAllHotelsCassandra\WcfAllHotelsCassandra\obj\Debug\WcfAllHotelsCassandra.csproj.CopyComplete
